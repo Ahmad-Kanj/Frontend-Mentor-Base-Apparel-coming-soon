@@ -147,6 +147,13 @@ body {
   display: none;
 }
 
+@media (hover: hover) and (pointer: fine) {
+ .submitButton:hover {
+  transform: scale(1.2);
+  filter: brightness(1.2);
+  }
+}
+
 @media screen and (max-width: 1150px) {
   body {
     width: 100%;
