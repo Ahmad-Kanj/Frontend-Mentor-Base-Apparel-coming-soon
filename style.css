@@ -149,8 +149,8 @@ body {
 
 @media (hover: hover) and (pointer: fine) {
  .submitButton:hover {
-  transform: scale(1.2);
-  filter: brightness(1.2);
+  transform: scale(1.1);
+  filter: brightness(1.1);
   }
 }
 
